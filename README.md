@@ -1,4 +1,4 @@
-# 教學文章與 QA
+# 教學文章
 
 ## Chatbot
 * [使用 IBM Watson 的 Speech To Text 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
