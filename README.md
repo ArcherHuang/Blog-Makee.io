@@ -35,3 +35,6 @@
 * [流程控制](http://oranwind.org/-swift-fen-zhi/)
 * [迴圈控制](http://oranwind.org/-swift-hui-quan/)
 * [optional](http://oranwind.org/-swift-optional/)
+
+## Gitbook
+* [LinkIt Smart 7688 運用於 FPV Mini 4WD](https://www.gitbook.com/book/makeeio/linkit-smart-mini4wd/details)
