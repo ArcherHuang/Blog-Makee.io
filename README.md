@@ -2,8 +2,8 @@
 
 ## Chatbot
 * [使用 IBM Watson 的 Speech To Text 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
-* [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 * [透過 Watson 建立 Conversation Dialog 服務](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
+* [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 
 ## Linkit Smart 7688
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
