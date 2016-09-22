@@ -5,13 +5,6 @@
 * [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 * [透過 Watson 建立 Conversation Dialog 服務](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 
-## Intel Edison 
-* [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
-* [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
-* [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
-* [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
-* [透過 API 開關 LED - Python](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
-
 ## Linkit Smart 7688
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
 * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
@@ -24,6 +17,13 @@
 * [傳送 Sensor Data 到 MediaTek Cloud Sandbox (MCS) - API](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
 * [傳送 Sensor Data 到 MediaTek Cloud Sandbox (MCS) - MQTT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
 * [GP 晶片迷你四驅車（Mini 4WD)](http://oranwind.org/un/)
+
+## Intel Edison 
+* [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
+* [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
+* [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
+* [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
+* [透過 API 開關 LED - Python](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
 
 ## Swift
 * [變數、常數、資料型態](http://oranwind.org/-ios-bian-shu-chang-shu-zi-liao-xing-tai/)
