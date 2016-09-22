@@ -5,7 +5,7 @@
 * [使用 IBM Watson 的 Conversation Dialog 服務](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 * [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 * [使用 Google Speech Recognition 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
-* 使用 Google Language Detection 語言辨識服務
+* 使用 Google Language Detection 語言偵測服務
 * 使用 Google Text Translation 文字翻譯服務
 
 ## Linkit Smart 7688
