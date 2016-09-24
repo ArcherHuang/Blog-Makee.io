@@ -2,7 +2,7 @@
 
 ## Chatbot
 * [使用 IBM Watson 的 Speech To Text 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
-* [使用 IBM Watson 的 Conversation Dialog 服務](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
+* [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 * [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 * [使用 Google Speech Recognition 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
 * [使用 Google Language Detection 語言偵測服務](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
