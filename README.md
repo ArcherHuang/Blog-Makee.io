@@ -28,6 +28,9 @@
 * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
 
+## AWS
+* [透過 SMS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
+
 ## Big Data
 * []()
 * []()
