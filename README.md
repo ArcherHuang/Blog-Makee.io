@@ -29,7 +29,7 @@
 * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
 
 ## AWS
-* [透過 SMS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
+* [透過 SNS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
 
 ## Big Data
 * []()
