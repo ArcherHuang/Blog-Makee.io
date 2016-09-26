@@ -3,27 +3,27 @@
 ## Chatbot
 * [使用 IBM Watson 的 Speech To Text 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
 * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
-* [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
-* [使用 Google Speech Recognition 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
-* [使用 Google Language Detection 語言偵測服務](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
-* [使用 Google Text Translation 文字翻譯服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
-* [取得 Microsoft 的 Cognitive Services Token](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
-* [使用 Microsoft 的 Cognitive Services Speech 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
-* [使用 Microsoft 的 Cognitive Services Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
-* 使用 Microsoft 的 Language Understanding Intelligent 服務
-* 使用 Wit.ai 進行交談式對話
+* [使用 IBM Watson 的 Text To Speech 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
+* [使用 Google Speech Recognition 語音辨識服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
+* [使用 Google Language Detection 語言偵測服務 - 【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
+* [使用 Google Text Translation 文字翻譯服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
+* [取得 Microsoft 的 Cognitive Services Token - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
+* [使用 Microsoft 的 Cognitive Services Speech 語音辨識服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
+* [使用 Microsoft 的 Cognitive Services Text To Speech 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
+* 使用 Microsoft 的 Language Understanding Intelligent 服務 - 【 Python 】
+* 使用 Wit.ai 進行交談式對話 - 【 Python 】
 
 ## Linkit Smart 7688
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
 * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
 * [安裝 USB 音效卡](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
-* [傳送 Sensor Data 到 ThingSpeak](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
-* [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
-* [傳送 Sensor Data 到 AWS IoT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
-* [AWS IoT 串接 AWS SNS 服務](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
-* [AWS IoT 串接 AWS DynamoDB 服務](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
-* [傳送 Sensor Data 到 MediaTek Cloud Sandbox (MCS) - API](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
-* [傳送 Sensor Data 到 MediaTek Cloud Sandbox (MCS) - MQTT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
+* [傳送 Sensor Data 到 ThingSpeak - 【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
+* [傳送 Sensor Data 到 WoT.City - 【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
+* [傳送 Sensor Data 到 AWS IoT - 【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
+* [AWS IoT 串接 AWS SNS 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
+* [AWS IoT 串接 AWS DynamoDB 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
+* [傳送 Sensor Data 到 MediaTek Cloud Sandbox (MCS) - API - 【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
+* [傳送 Sensor Data 到 MediaTek Cloud Sandbox (MCS) - MQTT - 【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
 * [GP 晶片迷你四驅車（Mini 4WD)](http://oranwind.org/un/)
 
 ## Intel Edison 
