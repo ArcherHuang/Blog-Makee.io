@@ -14,7 +14,6 @@
 * 使用 Wit.ai 進行交談式對話
 
 ## Chatbot - 【 Node.js 】
-* 使用 IBM Watson 的 Speech To Text 服務
 * 使用 Google Language Detection 語言偵測服務
 * 使用 Google Text Translation 文字翻譯服務
 * 取得 Microsoft 的 Cognitive Services Token
