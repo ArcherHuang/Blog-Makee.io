@@ -5,13 +5,21 @@
 * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 * [使用 IBM Watson 的 Text To Speech 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 * [使用 Google Speech Recognition 語音辨識服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
+* [使用 IBM Watson 的 Speech To Text 服務 - 【 Node.js 】
 * [使用 Google Language Detection 語言偵測服務 - 【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
+* [使用 Google Language Detection 語言偵測服務 - 【 Node.js 】]
 * [使用 Google Text Translation 文字翻譯服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
+* [使用 Google Text Translation 文字翻譯服務 - 【 Node.js 】]
 * [取得 Microsoft 的 Cognitive Services Token - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
+* [取得 Microsoft 的 Cognitive Services Token - 【 Node.js 】]
 * [使用 Microsoft 的 Cognitive Services Speech 語音辨識服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
+* [使用 Microsoft 的 Cognitive Services Speech 語音辨識服務 - 【 Node.js 】]
 * [使用 Microsoft 的 Cognitive Services Text To Speech 服務 - 【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
+* [使用 Microsoft 的 Cognitive Services Text To Speech 服務 - 【 Node.js 】]
 * 使用 Microsoft 的 Language Understanding Intelligent 服務 - 【 Python 】
+* 使用 Microsoft 的 Language Understanding Intelligent 服務 - 【 Node.js 】
 * 使用 Wit.ai 進行交談式對話 - 【 Python 】
+* 使用 Wit.ai 進行交談式對話 - 【 Node.js 】
 
 ## Linkit Smart 7688
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
