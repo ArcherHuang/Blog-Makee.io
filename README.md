@@ -23,7 +23,7 @@
 * 使用 Microsoft 的 Language Understanding Intelligent 服務 - 【 Node.js 】
 * 使用 Wit.ai 進行交談式對話 - 【 Node.js 】
 
-## Linkit Smart 7688
+## Linkit Smart 7688 - 【 Python 】
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
 * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
 * [安裝 USB 音效卡](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
