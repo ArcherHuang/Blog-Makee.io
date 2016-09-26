@@ -27,7 +27,7 @@
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
 * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
 * [安裝 USB 音效卡](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
-  ** [傳送 Sensor Data 到 ThingSpeak](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
+* [傳送 Sensor Data 到 ThingSpeak](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
 * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
 * [傳送 Sensor Data 到 AWS IoT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
 * [AWS IoT 串接 AWS SNS 服務](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
