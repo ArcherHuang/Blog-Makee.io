@@ -15,7 +15,7 @@
 
 ## Chatbot - 【 Node.js 】
 * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
-* 使用 Google Language Detection 語言偵測服務
+* [使用 Google Language Detection 語言偵測服務](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
 * 使用 Google Text Translation 文字翻譯服務
 * 取得 Microsoft 的 Cognitive Services Token
 * 使用 Microsoft 的 Cognitive Services Speech 語音辨識服務
