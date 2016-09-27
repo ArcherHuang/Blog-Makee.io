@@ -59,7 +59,8 @@
 * []()
 
 ## Testing Automation
-* []()
+* 【 Python 】
+ * []()
 
 ## Swift
 * [變數、常數、資料型態](http://oranwind.org/-ios-bian-shu-chang-shu-zi-liao-xing-tai/)
