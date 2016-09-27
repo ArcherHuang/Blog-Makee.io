@@ -41,9 +41,11 @@
 ## Intel Edison 
 * [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
 * [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
-* [透過 API 開關 LED - 【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
-* [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
-* [傳送 Sensor Data 到 WoT.City - 【 Python 】](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
+* 【 Python 】
+ * [透過 API 開關 LED - 【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
+ * [傳送 Sensor Data 到 WoT.City - 【 Python 】](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
+* 【 App Inventor 】
+ * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 
 ## AWS
 * [透過 SNS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
