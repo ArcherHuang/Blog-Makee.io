@@ -9,6 +9,7 @@
  * 使用 IBM Watson 的 Language Translator 服務
  * 使用 IBM Watson 的 Retrieve and Rank 服務
  * 使用 IBM Watson 的 Visual Recognition 服務
+ * 使用 IBM Watson 的 AlchemyAPI 服務
  * [使用 Google Speech Recognition 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
  * [使用 Google Language Detection 語言偵測服務](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
  * [使用 Google Text Translation 文字翻譯服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
