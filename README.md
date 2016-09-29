@@ -3,6 +3,7 @@
 ## Chatbot
 
 * 【 Python 】
+
  * [使用 IBM Watson 的 Speech To Text 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
  * [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
  * [使用 Google Speech Recognition 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
@@ -32,6 +33,7 @@
 * [登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
 * [安裝 USB 音效卡](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
 * 【 Python 】
+
  * [傳送 Sensor Data 到 ThingSpeak](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
  * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
  * [傳送 Sensor Data 到 AWS IoT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
@@ -46,13 +48,16 @@
 * [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
 * [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
 * 【 Python 】
+
  * [透過 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
  * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
 * 【 App Inventor 】
+
  * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 
 ## AWS
 * 【 Python 】
+
  * [透過 SNS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
 
 ## Big Data
