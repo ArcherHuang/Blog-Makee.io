@@ -13,6 +13,7 @@
  * [使用 Microsoft 的 Cognitive Services Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
  * 使用 Microsoft 的 Language Understanding Intelligent 服務
  * 使用 Wit.ai 進行交談式對話
+ 
 * 【 Node.js 】
  * [使用 Google Language Detection 語言偵測服務](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
  * 使用 Google Text Translation 文字翻譯服務
@@ -21,6 +22,7 @@
  * 使用 Microsoft 的 Cognitive Services Text To Speech 服務
  * 使用 Microsoft 的 Language Understanding Intelligent 服務
  * 使用 Wit.ai 進行交談式對話
+ 
 * 【 Others 】
  * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 
