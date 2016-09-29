@@ -21,7 +21,6 @@
  * 使用 Microsoft 的 Cognitive Services Text To Speech 服務
  * 使用 Microsoft 的 Language Understanding Intelligent 服務
  * 使用 Wit.ai 進行交談式對話
-
 * 【 Others 】
  * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 
