@@ -2,7 +2,7 @@
 
 ## Chatbot
 
-* 【 Python 】                        
+* 【 Python 】                         
  * [使用 IBM Watson 的 Speech To Text 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
  * [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
  * [使用 IBM Watson 的 Tone Analyzer 語氣分析服務](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-ibm-watson-de-tone-analyzer-yu-qi-fen-xi-fu-wu/)
