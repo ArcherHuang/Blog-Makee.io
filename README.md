@@ -36,6 +36,7 @@
  * [AWS IoT 串接 AWS DynamoDB 服務](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
  * [傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
  * [傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
+ * [傳送 Sensor Data 到 IBM Bluemix](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
  * [GP 晶片迷你四驅車（ Mini 4WD )](http://oranwind.org/un/)
 
 ## Intel Edison 
