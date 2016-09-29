@@ -1,7 +1,7 @@
 # 教學文章
 
 ## Chatbot
-* [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
+
 * 【 Python 】
  * [使用 IBM Watson 的 Speech To Text 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-speech-to-text-fu-wu/)
  * [使用 IBM Watson 的 Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
@@ -21,6 +21,9 @@
  * 使用 Microsoft 的 Cognitive Services Text To Speech 服務
  * 使用 Microsoft 的 Language Understanding Intelligent 服務
  * 使用 Wit.ai 進行交談式對話
+
+* 【 Others 】
+ * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 
 ## Linkit Smart 7688
 * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
