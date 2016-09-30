@@ -32,6 +32,8 @@
 
 * **ESP8266 & NodeMCU**
 
+* **ReSpeaker**
+
 * **Arduino UNO WiFi**
 
 ## Chatbot
