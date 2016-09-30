@@ -2,7 +2,7 @@
 
 ## Development Board
 
-* **① Linkit Smart 7688 / LinkIt Smart 7688 Duo**
+* **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
  * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
  * [透過指令開啟 Station Mode / AP Mode](http://oranwind.org/-linkit-smart-7688/)
  * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
@@ -19,7 +19,7 @@
      * [傳送 Sensor Data 到 IBM Bluemix](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
      * [GP 晶片迷你四驅車（ Mini 4WD )](http://oranwind.org/un/)
 
-* **② Intel Edison**
+* **Intel Edison**
  * [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
  * [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
  * 【 Python 】
@@ -28,11 +28,11 @@
  * 【 App Inventor 】
    * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 
-* **③ Raspberry Pi 3 Model B**
+* **Raspberry Pi 3 Model B**
 
-* **④ ESP8266 & NodeMCU**
+* **ESP8266 & NodeMCU**
 
-* **⑤ Arduino UNO WiFi**
+* **Arduino UNO WiFi**
 
 ## Chatbot
 
