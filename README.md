@@ -1,22 +1,23 @@
 # 教學文章
 
-## Linkit Smart 7688
-* [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
-* [透過指令開啟 Station Mode / AP Mode](http://oranwind.org/-linkit-smart-7688/)
-* [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
-* [登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
-* [安裝 USB 音效卡](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
-* 【 Python 】
- * [傳送 Sensor Data 到 ThingSpeak](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
-   * A
- * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
- * [傳送 Sensor Data 到 AWS IoT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
- * [AWS IoT 串接 AWS SNS 服務](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
- * [AWS IoT 串接 AWS DynamoDB 服務](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
- * [傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
- * [傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
- * [傳送 Sensor Data 到 IBM Bluemix](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
- * [GP 晶片迷你四驅車（ Mini 4WD )](http://oranwind.org/un/)
+## Development Board
+
+* Linkit Smart 7688
+ * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
+ * [透過指令開啟 Station Mode / AP Mode](http://oranwind.org/-linkit-smart-7688/)
+ * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
+ * [登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
+ * [安裝 USB 音效卡](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
+ * 【 Python 】
+  * [傳送 Sensor Data 到 ThingSpeak](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
+   * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
+   * [傳送 Sensor Data 到 AWS IoT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
+   * [AWS IoT 串接 AWS SNS 服務](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
+   * [AWS IoT 串接 AWS DynamoDB 服務](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
+   * [傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
+   * [傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
+   * [傳送 Sensor Data 到 IBM Bluemix](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
+   * [GP 晶片迷你四驅車（ Mini 4WD )](http://oranwind.org/un/)
 
 ## Chatbot
 
