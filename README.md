@@ -19,7 +19,7 @@
      * [傳送 Sensor Data 到 IBM Bluemix](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
      * [GP 晶片迷你四驅車（ Mini 4WD )](http://oranwind.org/un/)
 
-* **Intel Edison **
+* **Intel Edison**
  * [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
  * [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
  * 【 Python 】
