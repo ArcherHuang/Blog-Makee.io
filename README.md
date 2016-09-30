@@ -30,6 +30,10 @@
 
 * **Raspberry Pi 3 Model B**
 
+* **ESP8266 & NodeMCU**
+
+* **Arduino UNO WiFi**
+
 ## Chatbot
 
 * 【 Python 】                             
