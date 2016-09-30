@@ -57,9 +57,9 @@
 * 【 App Inventor 】
  * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 
-## AWS
+## Short Message Service
 * 【 Python 】
- * [透過 SNS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
+ * [透過 AWS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
 
 ## Big Data
 * []()
