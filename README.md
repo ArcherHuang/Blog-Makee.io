@@ -2,7 +2,7 @@
 
 ## Development Board
 
-* **Linkit Smart 7688**
+* **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
  * [取得 Mac Address / IP](http://oranwind.org/qu-de-mac-address-ip/)
  * [透過指令開啟 Station Mode / AP Mode](http://oranwind.org/-linkit-smart-7688/)
  * [傳送檔案與登入到開發板](http://oranwind.org/-linkit/)
