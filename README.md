@@ -19,6 +19,15 @@
      * [傳送 Sensor Data 到 IBM Bluemix](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
      * [GP 晶片迷你四驅車（ Mini 4WD )](http://oranwind.org/un/)
 
+* **Intel Edison **
+ * [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
+ * [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
+ * 【 Python 】
+   * [透過 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
+   * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
+ * 【 App Inventor 】
+   * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
+ 
 ## Chatbot
 
 * 【 Python 】                             
@@ -49,15 +58,6 @@
  
 * 【 Others 】
  * [使用 IBM Watson 建立 Conversation Dialog 談話情境](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
-
-## Intel Edison 
-* [更新 Firmware](http://oranwind.org/-intel-edison-geng-xin-firmware/)
-* [設定無線網路](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
-* 【 Python 】
- * [透過 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
- * [傳送 Sensor Data 到 WoT.City](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
-* 【 App Inventor 】
- * [透過 App Inventor 呼叫 API 開關 LED](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 
 ## Short Message Service
 * 【 Python 】
