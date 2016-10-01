@@ -41,20 +41,23 @@
   * 使用 IBM Watson 建立 Conversation Dialog 談話情境[【 Link 】](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
   * 使用 IBM Watson 的 Text To Speech 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
   * 使用 IBM Watson 的 Tone Analyzer 語氣分析服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-ibm-watson-de-tone-analyzer-yu-qi-fen-xi-fu-wu/)
-* 使用 IBM Watson 的 Language Translator 服務 【 Python 】
-* 使用 IBM Watson 的 Retrieve and Rank 服務
-* 使用 IBM Watson 的 Visual Recognition 服務 【 Python 】
-* 使用 IBM Watson 的 AlchemyAPI 服務
-* 使用 Google Speech Recognition 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
-* 使用 Google Language Detection 語言偵測服務 [【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/) [【 Node.js 】](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
-* 使用 Google Text Translation 文字翻譯服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
-* 取得 Microsoft 的 Cognitive Services Token [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
-* 使用 Microsoft 的 Cognitive Services Speech 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
-* 使用 Microsoft 的 Cognitive Services Text To Speech 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
-* 使用 Microsoft 的 Cognitive Services Computer Vision 辨識圖片資訊服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-computer-vision-bian-shi-tu-pian-zi-xun-fu-wu/)
-* 使用 Microsoft 的 Cognitive Services Emotion 情緒辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-emotion-qing-xu-bian-shi-fu-wu/)
-* 使用 Microsoft 的 Language Understanding Intelligent 服務
-* 使用 Wit.ai 進行交談式對話
+  * 使用 IBM Watson 的 Language Translator 服務 【 Python 】
+  * 使用 IBM Watson 的 Retrieve and Rank 服務
+  * 使用 IBM Watson 的 Visual Recognition 服務 【 Python 】
+  * 使用 IBM Watson 的 AlchemyAPI 服務
+* Google
+  * 使用 Google Speech Recognition 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
+  * 使用 Google Language Detection 語言偵測服務 [【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/) [【 Node.js 】](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
+  * 使用 Google Text Translation 文字翻譯服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
+* Microsoft
+  * 取得 Microsoft 的 Cognitive Services Token [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
+  * 使用 Microsoft 的 Cognitive Services Speech 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
+  * 使用 Microsoft 的 Cognitive Services Text To Speech 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
+  * 使用 Microsoft 的 Cognitive Services Computer Vision 辨識圖片資訊服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-computer-vision-bian-shi-tu-pian-zi-xun-fu-wu/)
+  * 使用 Microsoft 的 Cognitive Services Emotion 情緒辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-emotion-qing-xu-bian-shi-fu-wu/)
+  * 使用 Microsoft 的 Language Understanding Intelligent 服務
+* Facebook
+  * 使用 Wit.ai 進行交談式對話
  
 ## Short Message Service
 * 透過 AWS 傳送簡訊 [【 Python 】](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
