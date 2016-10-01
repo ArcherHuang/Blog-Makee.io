@@ -52,6 +52,8 @@
  * [取得 Microsoft 的 Cognitive Services Token](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
  * [使用 Microsoft 的 Cognitive Services Speech 語音辨識服務](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
  * [使用 Microsoft 的 Cognitive Services Text To Speech 服務](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-text-to-speech-fu-wu/)
+ * [使用 Microsoft 的 Cognitive Services Computer Vision 辨識圖片資訊服務](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-computer-vision-bian-shi-tu-pian-zi-xun-fu-wu/)
+ * [使用 Microsoft 的 Cognitive Services Emotion 情緒辨識服務](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-emotion-qing-xu-bian-shi-fu-wu/)
  * 使用 Microsoft 的 Language Understanding Intelligent 服務
  * 使用 Wit.ai 進行交談式對話
  
