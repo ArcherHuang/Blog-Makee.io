@@ -47,7 +47,7 @@
  * 使用 IBM Watson 的 Visual Recognition 服務
  * 使用 IBM Watson 的 AlchemyAPI 服務
  * 使用 Google Speech Recognition 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
- * 使用 Google Language Detection 語言偵測服務 [【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
+ * 使用 Google Language Detection 語言偵測服務 [【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/) [【 Node.js 】](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
  * 使用 Google Text Translation 文字翻譯服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-text-translation-wen-zi-fan-yi-fu-wu/)
  * 取得 Microsoft 的 Cognitive Services Token [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-token-api/)
  * 使用 Microsoft 的 Cognitive Services Speech 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-microsoft-bing-de-cognitive-services-speech-yu-yin-bian-shi-fu-wu/)
@@ -58,7 +58,7 @@
  * 使用 Wit.ai 進行交談式對話
  
 * 【 Node.js 】
- * [使用 Google Language Detection 語言偵測服務](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
+ * [使用 Google Language Detection 語言偵測服務]
  * 使用 Google Text Translation 文字翻譯服務
  * 取得 Microsoft 的 Cognitive Services Token
  * 使用 Microsoft 的 Cognitive Services Speech 語音辨識服務
