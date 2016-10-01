@@ -18,7 +18,6 @@
  * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
  * 傳送 Sensor Data 到 Microsoft Azure
  * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
- * 透過語音控制開關 LED 
  * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
 
 * **Intel Edison**
