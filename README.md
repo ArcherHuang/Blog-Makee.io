@@ -6,7 +6,7 @@
  * 取得 Mac Address / IP [【 Link 】](http://oranwind.org/qu-de-mac-address-ip/)
  * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
  * 傳送檔案與登入到開發板 【 Link 】(http://oranwind.org/-linkit/)
- * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 【 Link 】(http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
+ * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
  * 安裝 USB 音效卡 【 Link 】(http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
  * 傳送 Sensor Data 到 ThingSpeak [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
  * 傳送 Sensor Data 到 WoT.City [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
