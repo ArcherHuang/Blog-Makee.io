@@ -3,11 +3,12 @@
 ## Development Board
 
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
- * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
- * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
- * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
- * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
- * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
+ * Basic
+   * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
+    * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
+    * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
+    * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
+    * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
  * ThingSpeak
    * 傳送 Sensor Data 到 ThingSpeak [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
  * WoT.City
