@@ -40,9 +40,9 @@
 * 使用 IBM Watson 建立 Conversation Dialog 談話情境[【 Link 】](http://oranwind.org/-ibm-bluemix-watson-jian-li-conversation-dialog/)
 * 使用 IBM Watson 的 Text To Speech 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-ibm-watson-de-text-to-speech-fu-wu/)
 * 使用 IBM Watson 的 Tone Analyzer 語氣分析服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-ibm-watson-de-tone-analyzer-yu-qi-fen-xi-fu-wu/)
-* 使用 IBM Watson 的 Language Translator 服務
+* 使用 IBM Watson 的 Language Translator 服務 【 Python 】
 * 使用 IBM Watson 的 Retrieve and Rank 服務
-* 使用 IBM Watson 的 Visual Recognition 服務
+* 使用 IBM Watson 的 Visual Recognition 服務 【 Python 】
 * 使用 IBM Watson 的 AlchemyAPI 服務
 * 使用 Google Speech Recognition 語音辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-shi-yong-google-speech-recognition-fu-wu/)
 * 使用 Google Language Detection 語言偵測服務 [【 Python 】](http://oranwind.org/-robot-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/) [【 Node.js 】](http://oranwind.org/-google-cloud-tou-guo-node-js-shi-yong-google-language-detection-yu-yan-zhen-ce-fu-wu/)
