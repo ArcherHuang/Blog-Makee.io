@@ -56,8 +56,7 @@
 * 使用 Wit.ai 進行交談式對話
  
 ## Short Message Service
-* 【 Python 】
- * [透過 AWS 傳送簡訊](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
+* 透過 AWS 傳送簡訊 [【 Python 】](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
 
 ## Big Data
 * []()
