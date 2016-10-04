@@ -1,7 +1,7 @@
 # 教學文章
 
 ## Development Board
-                                        
+                                         
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
  * Basic
    * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
