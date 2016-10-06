@@ -23,6 +23,8 @@
     * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
  * IBM Bluemix
    * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
+ * Google
+   * 
  * Microsoft Azure
    * 傳送 Sensor Data 到 Microsoft Azure
  * Others
