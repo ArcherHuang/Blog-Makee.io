@@ -24,7 +24,7 @@
  * IBM Bluemix
    * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
  * Google
-   * 
+   * 傳送 Sensor Data 到 Firebase 【 Python 】
  * Microsoft Azure
    * 傳送 Sensor Data 到 Microsoft Azure
  * Others
