@@ -25,7 +25,7 @@
    * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
  * Google
    * 傳送 Sensor Data 到 Firebase [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-google-firebase/)
-   * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
+    * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
  * Microsoft Azure
    * 傳送 Sensor Data 到 Microsoft Azure
  * Others
