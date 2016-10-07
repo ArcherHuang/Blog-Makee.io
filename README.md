@@ -39,6 +39,7 @@
  * 透過 App Inventor 呼叫 API 開關 LED [【 App Inventor 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
 
 * **Raspberry Pi 3 Model B**
+ * 透過 MacOS 安裝 Raspbian【 Link 】
 
 * **ESP8266 & NodeMCU**
 
