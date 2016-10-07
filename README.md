@@ -43,7 +43,13 @@
  * 將溫溼度數值顯示於 Grove LCD【 Python 】
  * WoT.City
    * 傳送 Sensor Data 到 WoT.City 【 Python 】
-
+ * IBM Bluemix
+   * 傳送 Sensor Data 到 IBM Bluemix 【 Python 】
+* Amazon Web Services
+   * 傳送 Sensor Data 到 AWS IoT 【 Python 】
+    * AWS IoT 串接 AWS SNS 服務 【 Python 】
+    * AWS IoT 串接 AWS DynamoDB 服務 【 Python 】
+ 
 * **ESP8266 & NodeMCU**
 
 * **ReSpeaker**
