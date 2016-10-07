@@ -41,6 +41,8 @@
 * **Raspberry Pi 3 Model B**
  * 透過 MacOS 安裝 Raspbian【 Link 】
  * 將溫溼度數值顯示於 Grove LCD【 Python 】
+ * WoT.City
+   * 傳送 Sensor Data 到 WoT.City 【 Python 】
 
 * **ESP8266 & NodeMCU**
 
