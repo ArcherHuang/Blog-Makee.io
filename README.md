@@ -42,6 +42,7 @@
  * Basic
    * 透過 MacOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
     * 將溫溼度數值顯示於 Grove LCD【 Python 】
+    * iPad 透過 VNC 控制 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-ipad-kong-zhi-raspbian/)
  * WoT.City
    * 傳送 Sensor Data 到 WoT.City 【 Python 】
  * IBM Bluemix
