@@ -41,7 +41,7 @@
 * **Raspberry Pi 3 Model B**
  * Basic
    * 透過 MacOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
-   * 將溫溼度數值顯示於 Grove LCD【 Python 】
+    * 將溫溼度數值顯示於 Grove LCD【 Python 】
  * WoT.City
    * 傳送 Sensor Data 到 WoT.City 【 Python 】
  * IBM Bluemix
