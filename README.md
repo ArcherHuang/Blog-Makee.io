@@ -45,7 +45,7 @@
     * iPad 透過 VNC 控制 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-ipad-kong-zhi-raspbian/)
     * 將溫溼度數值顯示於 Grove LCD [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-xian-shi-wen-shi-du-zi-xun-dao-grove-lcd/)
  * WoT.City
-   * 傳送 Sensor Data 到 WoT.City 【 Python 】
+   * 傳送溫溼度資訊到 WoT.City [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-wot-city/)
  * IBM Bluemix
    * 傳送 Sensor Data 到 IBM Bluemix 【 Python 】
  * Amazon Web Services
