@@ -47,7 +47,7 @@
  * WoT.City
    * 傳送溫溼度資訊到 WoT.City [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-wot-city/)
  * IBM Bluemix
-   * 傳送溫溼度資訊到 IBM Bluemix 【 Python 】
+   * 傳送溫溼度資訊到 IBM Bluemix [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-ibm-bluemix/)
  * Amazon Web Services
    * 傳送溫溼度資訊到 AWS IoT 【 Python 】
     * AWS IoT 串接 AWS SNS 服務 【 Python 】
