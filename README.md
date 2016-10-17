@@ -50,7 +50,7 @@
    * 傳送溫溼度資訊到 IBM Bluemix [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-ibm-bluemix/)
  * Amazon Web Services
    * 傳送溫溼度資訊到 AWS IoT [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-aws-iot/)
-    * AWS IoT 串接 AWS SNS 服務 【 Python 】
+    * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-raspberry-pi-aws-iot-chuan-jie-aws-sns-fu-wu/)
     * AWS IoT 串接 AWS DynamoDB 服務 【 Python 】
  * Google
    * 傳送溫溼度資訊到 Firebase [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-google-firebase/) 
