@@ -64,6 +64,8 @@
 
 * **ReSpeaker**
 
+* **WiFiBoy**
+
 * **Arduino UNO WiFi**
 
 ## Robot
