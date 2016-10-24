@@ -44,7 +44,7 @@
    * 透過 MacOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
     * iPad 透過 VNC 控制 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-ipad-kong-zhi-raspbian/)
     * 將溫溼度數值顯示於 Grove LCD [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-xian-shi-wen-shi-du-zi-xun-dao-grove-lcd/)
-    * 安裝 Swift 3.0
+    * 安裝 Swift 3.0【 Link 】
  * WoT.City
    * 傳送溫溼度資訊到 WoT.City [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-wot-city/)
  * IBM Bluemix
