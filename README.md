@@ -110,11 +110,7 @@
 * 
 
 ## Big Data
-* []()
-* []()
-* []()
-* []()
-* []()
+* 
 
 ## Testing Automation
 * 【 Python 】
