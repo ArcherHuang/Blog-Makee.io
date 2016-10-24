@@ -43,6 +43,7 @@
  * Basic
    * 透過 MacOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
     * iPad 透過 VNC 控制 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-ipad-kong-zhi-raspbian/)
+    * 透過序列埠登入系統【 Link 】
     * 將溫溼度數值顯示於 Grove LCD [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-xian-shi-wen-shi-du-zi-xun-dao-grove-lcd/)
  * Swift
     * 安裝 Swift 3.0【 Link 】
