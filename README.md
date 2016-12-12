@@ -20,6 +20,7 @@
     * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
     * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version/)
     * AWS IoT 串接 AWS DynamoDB 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
+    * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】]()
  * MediaTek Cloud Sandbox
    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
