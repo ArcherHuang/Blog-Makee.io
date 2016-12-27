@@ -122,12 +122,6 @@
 ## Tool
 * ngrok 與 Python Flask 整合 [ 【 Link 】](http://oranwind.org/-tool-ngrok-yu-python-flask-zheng-he/)
 
-## Machine Learning
-* 
-
-## Big Data
-* 
-
 ## Testing Automation
 * 【 Python 】
  * 自動化安裝 RStudio 與 Selenium 自動化測試【 Link 】
