@@ -105,6 +105,9 @@
   * 使用 Microsoft 的 Cognitive Services Computer Vision 辨識圖片資訊服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-computer-vision-bian-shi-tu-pian-zi-xun-fu-wu/)
   * 使用 Microsoft 的 Cognitive Services Emotion 情緒辨識服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-microsoft-de-cognitive-services-emotion-qing-xu-bian-shi-fu-wu/)
   * 使用 Microsoft 的 Language Understanding Intelligent 服務
+
+* **Amazon Web Services (AWS)**
+  * 使用 AWS 的 Polly 服務 [【 Python 】]()
   
 * **Facebook**
   * 使用 Wit.ai 進行交談式對話
