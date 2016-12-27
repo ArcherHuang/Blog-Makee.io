@@ -77,10 +77,6 @@
 
 * **ReSpeaker**
 
-* **WiFiBoy**
-
-* **Arduino UNO WiFi**
-
 ## Robot
 
 * **IBM Bluemix**
