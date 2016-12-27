@@ -72,10 +72,6 @@
     * 傳送溫溼度資訊到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-mediatek-cloud-sandbox-mcs-mqtt/)
  * ThingSpeak
    * 傳送溫溼度資訊到 ThingSpeak [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-thingspeak/)
-   
-* **ESP8266 & NodeMCU**
-
-* **ReSpeaker**
 
 ## Robot
 
