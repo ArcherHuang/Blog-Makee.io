@@ -114,7 +114,7 @@
 * 透過 Twilio 傳送簡訊 【 Python 】
 
 ## DevOps
-* 安裝 GitLab [【 Link 】]()
+* 安裝 GitLab [【 Link 】](http://oranwind.org/-devops-an-zhuang-gitlab/)
 
 ## Tool
 * ngrok 與 Python Flask 整合 [ 【 Link 】](http://oranwind.org/-tool-ngrok-yu-python-flask-zheng-he/)
