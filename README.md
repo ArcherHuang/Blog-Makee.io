@@ -42,6 +42,9 @@
  * 透過 API 開關 LED [【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
  * 傳送 Sensor Data 到 WoT.City  [【 Python 】](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
  * 透過 App Inventor 呼叫 API 開關 LED [【 App Inventor 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
+ * 傳送 Sensing Data 到 AWS IoT (NEW Version) [【 Python 】]()
+ * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】]()
+ * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】]()
 
 * **Raspberry Pi 3 Model B**
  * Basic
@@ -57,8 +60,11 @@
    * 傳送溫溼度資訊到 IBM Bluemix [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-ibm-bluemix/)
  * Amazon Web Services
    * 傳送溫溼度資訊到 AWS IoT [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-aws-iot/)
+    * 傳送 Sensing Data 到 AWS IoT (NEW Version) [【 Python 】]()
     * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-raspberry-pi-aws-iot-chuan-jie-aws-sns-fu-wu/)
+    * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】]()
     * AWS IoT 串接 AWS DynamoDB 服務 [【 Python 】](http://oranwind.org/-raspberry-pi-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
+    * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】]()
  * Google
    * 傳送溫溼度資訊到 Firebase [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-google-firebase/) 
  * MediaTek Cloud Sandbox
