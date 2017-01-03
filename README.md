@@ -100,6 +100,7 @@
 
 * **Amazon Web Services (AWS)**
   * 使用 AWS 的 Polly 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-aws-de-polly-fu-wu/)
+  * 使用 AWS 的 Rekognition 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-shi-yong-aws-de-rekognition-fu-wu/)
   
 * **Facebook**
   * 使用 Wit.ai 進行交談式對話
