@@ -110,9 +110,7 @@
 
 ## DevOps
 * 安裝 GitLab [【 Link 】](http://oranwind.org/-devops-an-zhuang-gitlab/)
-
-## Tool
-* ngrok 與 Python Flask 整合 [ 【 Link 】](http://oranwind.org/-tool-ngrok-yu-python-flask-zheng-he/)
+* ngrok 與 Python Flask 整合 [【 Link 】](http://oranwind.org/-tool-ngrok-yu-python-flask-zheng-he/)
 
 ## Testing Automation
 * 【 Python 】
