@@ -73,7 +73,7 @@
  * ThingSpeak
    * 傳送溫溼度資訊到 ThingSpeak [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-thingspeak/)
 
-* **NodeMcu**
+* **NodeMCU**
    
 
 ## Robot
