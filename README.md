@@ -74,6 +74,7 @@
    * 傳送溫溼度資訊到 ThingSpeak [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-thingspeak/)
 
 * **NodeMCU**
+   * 在 Arduino IDE 設定 NodeMCU [【 Link 】](http://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/)
    
 
 ## Robot
