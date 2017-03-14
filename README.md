@@ -113,6 +113,12 @@
 ## IoT Studio
 * 透過 macOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
 * 安裝 NEXCOM 物聯雲 IoT Studio  [【 Link 】](http://oranwind.org/-raspberry-pi-an-zhuang-iot-studio/)
+* 設定 IoT Studio 透過 WebSocket 接收 Sensing Data  [【 Link 】]()
+* 透過 WebSocket 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
+* 設定 IoT Studio 透過 HTTP 接收 Sensing Data  [【 Link 】]()
+* 透過 HTTP 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
+* 設定 IoT Studio 透過 MQTT 接收 Sensing Data  [【 Link 】]()
+* 透過 MQTT 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
 
 ## Short Message Service
 * 透過 AWS 傳送簡訊 [【 Python 】](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
