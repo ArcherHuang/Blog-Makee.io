@@ -37,6 +37,7 @@
    * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
 
 * **Intel Edison**
+
  * 更新 Firmware [【 Link 】](http://oranwind.org/-intel-edison-geng-xin-firmware/)
  * 設定無線網路 [【 Link 】](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
  * 透過 API 開關 LED [【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
@@ -76,7 +77,6 @@
 * **NodeMCU**
    * 在 Arduino IDE 設定 NodeMCU [【 Link 】](http://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/)
    
-
 ## Robot
 
 * **IBM Bluemix**
