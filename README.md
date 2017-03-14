@@ -117,8 +117,8 @@
 * 透過 WebSocket 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
 * 設定 IoT Studio 透過 HTTP 接收 Sensing Data  [【 Link 】]()
 * 透過 HTTP 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
-* 設定 IoT Studio 透過 MQTT 接收 Sensing Data  [【 Link 】]()
-* 透過 MQTT 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
+* 設定 IoT Studio 透過 MQTT 接收 Sensing Data
+* 透過 MQTT 傳送 Sensing Data 到 IoT Studio
 
 ## Short Message Service
 * 透過 AWS 傳送簡訊 [【 Python 】](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
