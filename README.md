@@ -109,7 +109,11 @@
   
 * **Facebook**
   * 使用 Wit.ai 進行交談式對話
- 
+
+## IoT Studio
+* 透過 macOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
+* 安裝 NEXCOM 物聯雲 IoT Studio  [【 Link 】](http://oranwind.org/-raspberry-pi-an-zhuang-iot-studio/)
+
 ## Short Message Service
 * 透過 AWS 傳送簡訊 [【 Python 】](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
 * 透過 Twilio 傳送簡訊 【 Python 】
