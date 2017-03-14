@@ -115,7 +115,7 @@
 * 安裝 NEXCOM 物聯雲 IoT Studio  [【 Link 】](http://oranwind.org/-raspberry-pi-an-zhuang-iot-studio/)
 * 設定 IoT Studio 透過 WebSocket 接收 Sensing Data  [【 Link 】](http://oranwind.org/-raspberry-pi-she-ding-iot-studio-tou-guo-websocket-jie-shou-sensing-data/)
 * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
-* 透過 WebSocket 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
+* 透過 WebSocket 傳送 Sensing Data 到 IoT Studio  [【 Link 】](http://oranwind.org/-linkit-smart-7688-tou-guo-websocket-chuan-song-sensing-data-dao-iot-studio/)
 * 設定 IoT Studio 透過 HTTP 接收 Sensing Data  [【 Link 】]()
 * 透過 HTTP 傳送 Sensing Data 到 IoT Studio  [【 Link 】]()
 * 設定 IoT Studio 透過 MQTT 接收 Sensing Data
