@@ -117,6 +117,7 @@
 * 透過 WebSocket 傳送 Sensing Data 到 IoT Studio  [【 Link 】](http://oranwind.org/-linkit-smart-7688-tou-guo-websocket-chuan-song-sensing-data-dao-iot-studio/)
 * 設定 IoT Studio 透過 HTTP 接收 Sensing Data  [【 Link 】](http://oranwind.org/-raspberry-pi-she-ding-iot-studio-tou-guo-http-jie-shou-sensing-data/)
 * 透過 HTTP 傳送 Sensing Data 到 IoT Studio  [【 Link 】](http://oranwind.org/-linkit-smart-7688-tou-guo-http-chuan-song-sensing-data-dao-iot-studio/)
+* 透過 IoT Studio 傳送 Sensing Data 到 GMail [【 Link 】](http://oranwind.org/-linkit-smart-7688-tou-guo-iot-studio-chuan-song-sensing-data-dao-gmail/)
 * 設定 IoT Studio 透過 MQTT 接收 Sensing Data
 * 透過 MQTT 傳送 Sensing Data 到 IoT Studio
 
