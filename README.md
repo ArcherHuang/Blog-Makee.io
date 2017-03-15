@@ -38,13 +38,13 @@
 
 * **Intel Edison**
   * 更新 Firmware [【 Link 】](http://oranwind.org/-intel-edison-geng-xin-firmware/)
- * 設定無線網路 [【 Link 】](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
- * 透過 API 開關 LED [【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
- * 傳送 Sensor Data 到 WoT.City  [【 Python 】](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
- * 透過 App Inventor 呼叫 API 開關 LED [【 App Inventor 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
- * 傳送 Sensing Data 到 AWS IoT (NEW Version) [【 Python 】]()
- * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】]()
- * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】]()
+  * 設定無線網路 [【 Link 】](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
+  * 透過 API 開關 LED [【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
+  * 傳送 Sensor Data 到 WoT.City  [【 Python 】](http://oranwind.org/-intel-edison-chuan-song-sensor-data-dao-wot-city/)
+  * 透過 App Inventor 呼叫 API 開關 LED [【 App Inventor 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led-2/)
+  * 傳送 Sensing Data 到 AWS IoT (NEW Version) [【 Python 】]()
+  * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】]()
+  * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】]()
 
 * **Raspberry Pi 3 Model B**
  * Basic
