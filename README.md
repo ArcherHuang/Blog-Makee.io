@@ -16,11 +16,15 @@
    * 傳送 Sensor Data 到 WoT.City [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
  * Amazon Web Services
    * 傳送 Sensor Data 到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
-    * 傳送 Sensing Data 到 AWS IoT (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version/)
+    * 設定 AWS IoT 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version/)
     * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
-    * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version/)
+    * 設定 AWS SNS 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version/)
     * AWS IoT 串接 AWS DynamoDB 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
-    * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu-new-version/)
+    * 設定 AWS DynamoDB 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu-new-version/)
+    * 設定 AWS Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-lambda-fu-wu/)
+    * 設定 AWS IoT 與 AWS Lambda 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-iot-yu-aws-lambda-de-rule/)
+    * 將 Sensing Data 傳送到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version-2/)
+    * 設定 AWS IoT 與 AWS SNS 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version-2/)
  * MediaTek Cloud Sandbox
    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
