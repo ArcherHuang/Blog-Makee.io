@@ -127,7 +127,8 @@
 * 透過 IoT Studio 傳送 Sensing Data 到 GMail [【 Link 】](http://oranwind.org/-linkit-smart-7688-tou-guo-iot-studio-chuan-song-sensing-data-dao-gmail/)
 * 設定 AWS IoT 服務 ( IoT Studio ) [【 Link 】](http://oranwind.org/-aws-she-ding-aws-iot-fu-wu-iot-studio/)
 * 將感測資訊經由 IoT Studio 傳送到 AWS IoT 服務 [【 Link 】](http://oranwind.org/-iot-studio-chuan-jie-aws-iot-fu-wu/)
-* 透過 IoT Studio 傳送 Sensing Data 到 Google Firebase [【 Link 】]()
+* 設定 Google Firebase 服務 ( IoT Studio ) [【 Link 】](http://oranwind.org/-google-she-ding-google-firebase-fu-wu-iot-studio/)
+* 將感測資訊經由 IoT Studio 傳送到 Google Firebase 服務 [【 Link 】](http://oranwind.org/-iot-studio-jiang-gan-ce-zi-xun-jing-you-iot-studio-chuan-song-dao-google-firebase-fu-wu/)
 * 接收到 e-mail 後開啟 LED
 * 設定 IoT Studio 透過 MQTT 接收 Sensing Data
 * 透過 MQTT 傳送 Sensing Data 到 IoT Studio
