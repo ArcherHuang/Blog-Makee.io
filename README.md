@@ -133,6 +133,10 @@
 * 將感測資訊經由 IoT Studio 傳送到 MediaTek Cloud Sandbox 服務 - API [【 Link 】](http://oranwind.org/-iot-studio-jiang-gan-ce-zi-xun-jing-you-iot-studio-chuan-song-dao-mediatek-cloud-sandbox-fu-wu-api/)
 * 設定 ThingSpeak 服務 [【 Link 】](http://oranwind.org/-thingspeak-she-ding-thingspeak-fu-wu-iot-studio/)
 * 將感測資訊經由 IoT Studio 傳送到 ThingSpeak 服務 [【 Link 】](http://oranwind.org/-iot-studio-jiang-gan-ce-zi-xun-jing-you-iot-studio-chuan-song-dao-thingspeak-fu-wu/)
+* 設定 IBM Bluemix 服務
+* 將感測資訊經由 IoT Studio 傳送到 IBM Bluemix 服務
+* 設定 WoT.City 服務
+* 將感測資訊經由 IoT Studio 傳送到 WoT.City 服務
 * 接收到 e-mail 後開啟 LED
 * 設定 IoT Studio 透過 MQTT 接收 Sensing Data
 * 透過 MQTT 傳送 Sensing Data 到 IoT Studio
