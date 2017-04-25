@@ -140,6 +140,8 @@
 * 接收到 e-mail 後開啟 LED
 * 設定 IoT Studio 透過 MQTT 接收 Sensing Data
 * 透過 MQTT 傳送 Sensing Data 到 IoT Studio
+* MCS & IFTTT
+* Kafka
 
 ## Short Message Service
 * 透過 AWS 傳送簡訊 [【 Python 】](http://oranwind.org/-aws-tou-guo-sms-chuan-song-jian-xun/)
