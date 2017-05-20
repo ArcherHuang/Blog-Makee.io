@@ -6,8 +6,8 @@
    * Linkit 7697 起手式教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-ji-chu-jiao-xue/)
          
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
- * Basic
-   * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
+   * Basic
+     * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
     * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
     * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
     * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
