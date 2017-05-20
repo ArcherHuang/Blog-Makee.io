@@ -1,7 +1,8 @@
 # 教學文章
                     
 ## Development Board                    
-* **Linkit 7697
+
+* **Linkit 7697**
    * Linkit 7697 起手式教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-ji-chu-jiao-xue/)
          
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
