@@ -164,16 +164,19 @@
 * 【 Python 】
  * 自動化安裝 RStudio 與 Selenium 自動化測試【 Link 】
 
-## Swift
-* [變數、常數、資料型態](http://oranwind.org/-ios-bian-shu-chang-shu-zi-liao-xing-tai/)
-* [運算子 - 算數運算子](http://oranwind.org/-swift-yun-suan-zi/)
-* [運算子 - 關係運算子](http://oranwind.org/-swift-yun-suan-zi-suan-shu-yun-suan-zi/)
-* [運算子 - 邏輯運算子](http://oranwind.org/-swift-yun-suan-zi-luo-ji-yun-suan-zi/)
-* [運算子 - 位元運算子](http://oranwind.org/-swift-yun-suan-zi-suan-shu-yun-suan-zi-2/)
-* [運算子 - 指定運算子](http://oranwind.org/-swift-yun-suan-zi-suan-shu-yun-suan-zi-3/)
-* [流程控制](http://oranwind.org/-swift-fen-zhi/)
-* [迴圈控制](http://oranwind.org/-swift-hui-quan/)
-* [optional](http://oranwind.org/-swift-optional/)
+## Programming language
+* Go
+
+* Swift
+  * [變數、常數、資料型態](http://oranwind.org/-ios-bian-shu-chang-shu-zi-liao-xing-tai/)
+  * [運算子 - 算數運算子](http://oranwind.org/-swift-yun-suan-zi/)
+  * [運算子 - 關係運算子](http://oranwind.org/-swift-yun-suan-zi-suan-shu-yun-suan-zi/)
+  * [運算子 - 邏輯運算子](http://oranwind.org/-swift-yun-suan-zi-luo-ji-yun-suan-zi/)
+  * [運算子 - 位元運算子](http://oranwind.org/-swift-yun-suan-zi-suan-shu-yun-suan-zi-2/)
+  * [運算子 - 指定運算子](http://oranwind.org/-swift-yun-suan-zi-suan-shu-yun-suan-zi-3/)
+  * [流程控制](http://oranwind.org/-swift-fen-zhi/)
+  * [迴圈控制](http://oranwind.org/-swift-hui-quan/)
+  * [optional](http://oranwind.org/-swift-optional/)
 
 ## Gitbook
 * [LinkIt Smart 7688 運用於 FPV Mini 4WD](https://www.gitbook.com/book/makeeio/linkit-smart-mini4wd/details)
