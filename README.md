@@ -8,17 +8,17 @@
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
    * Basic
      * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
-    * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
-    * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
-    * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
-    * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
-    * 透過 Python Flask 控制 LED [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-flask-kong-zhi-led/)
- * ThingSpeak
-   * 傳送 Sensor Data 到 ThingSpeak [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
- * WoT.City
-   * 傳送 Sensor Data 到 WoT.City [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
- * Amazon Web Services
-   * 傳送 Sensor Data 到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
+     * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
+     * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
+     * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
+     * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
+     * 透過 Python Flask 控制 LED [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-flask-kong-zhi-led/)
+  * ThingSpeak
+    * 傳送 Sensor Data 到 ThingSpeak [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
+  * WoT.City
+    * 傳送 Sensor Data 到 WoT.City [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
+  * Amazon Web Services
+    * 傳送 Sensor Data 到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
     * 設定 AWS IoT 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version/)
     * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
     * 設定 AWS SNS 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version/)
@@ -31,19 +31,19 @@
     * 設定 AWS API Gateway 中 Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-zhong-lambda-fu-wu/)
     * 設定 AWS API Gateway 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-fu-wu/)
     
- * MediaTek Cloud Sandbox
-   * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
+  * MediaTek Cloud Sandbox
+    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
     * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
- * IBM Bluemix
-   * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
- * Google
-   * 傳送 Sensor Data 到 Firebase [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-google-firebase/)
+  * IBM Bluemix
+    * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
+  * Google
+    * 傳送 Sensor Data 到 Firebase [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-google-firebase/)
     * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
- * Microsoft Azure
-   * 傳送 Sensor Data 到 Microsoft Azure
- * Others
-   * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
+  * Microsoft Azure
+    * 傳送 Sensor Data 到 Microsoft Azure
+  * Others
+    * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
 
 * **Intel Edison**
   * 更新 Firmware [【 Link 】](http://oranwind.org/-intel-edison-geng-xin-firmware/)
