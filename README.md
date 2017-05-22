@@ -3,7 +3,10 @@
 ## Development Board                    
 
 * **Linkit 7697**
-   * Linkit 7697 起手式基礎教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-ji-chu-jiao-xue/)
+   * Basic
+     * Linkit 7697 起手式基礎教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-ji-chu-jiao-xue/)
+   * MediaTek Cloud Sandbox
+     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) [【 Link 】]()
          
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
    * Basic
