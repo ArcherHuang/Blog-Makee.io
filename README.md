@@ -8,6 +8,7 @@
      * LinkIt 7697 使用 Microlattice.js 教學 - Windows  [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-shi-yong-microlattice-js-ji-chu-jiao-xue/)
      * LinkIt 7697 使用 Microlattice.js 教學 - macOS  [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-shi-yong-microlattice-js-jiao-xue-macos/)
      * 透過 LightBlue 控制 LinkIt 7697 LED 教學  [【 Link 】](http://oranwind.org/-mediatek-app-inventor-jie-shou-linkit-7697-gan-ce-zi-liao-jiao-xue-2/)
+     * 透過 LightBlue 讀取 LinkIt 7697 溫度感測器資訊教學  [【 Link 】](http://oranwind.org/-mediatek-tou-guo-lightblue-du-qu-linkit-7697-wen-du-gan-ce-qi-zi-xun-jiao-xue/)
    * MediaTek Cloud Sandbox & MCS Lite
      * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-ji-chu-jiao-xue/)
      * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
