@@ -4,7 +4,7 @@
 
 * **Micro:bit**
   * Micro:bit 起手式 Arduino 基礎教學 [【 Link 】](http://oranwind.org/-bbc-microbit-qi-shou-shi-arduino-ji-chu-jiao-xue/)
-  * 透過 Blynk App 控制 LED 教學 [【 Link 】]()
+  * 透過 Blynk App 控制 Micro:bit 基礎教學 [【 Link 】](http://oranwind.org/-bbc-tou-guo-blynk-%08app-kong-zhi-microbit-ji-chu-jiao-xue/)
 
 * **Linkit 7697**
    * Basic
