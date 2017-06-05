@@ -5,6 +5,7 @@
 * **Micro:bit**
   * Micro:bit 起手式 Arduino 基礎教學 [【 Link 】](http://oranwind.org/-bbc-microbit-qi-shou-shi-arduino-ji-chu-jiao-xue/)
   * 透過 Blynk App 控制 Micro:bit 基礎教學 [【 Link 】](http://oranwind.org/-bbc-tou-guo-blynk-%08app-kong-zhi-microbit-ji-chu-jiao-xue/)
+  * 將 Micro:bit 上的 Light Sensor 數據傳送到 Blynk App [【 Link 】](http://oranwind.org/-bbc-jiang-microbit-shang-de-light-sensor-shu-ju-chuan-song-dao-blynk-app/)
 
 * **Linkit 7697**
    * Basic
