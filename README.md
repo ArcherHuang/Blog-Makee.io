@@ -54,7 +54,9 @@
   * Google
     * 傳送 Sensor Data 到 Firebase [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-google-firebase/)
     * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
-  * Microsoft Azure
+  * Blynk
+      * 傳送感測數據到 Blynk App 教學 [【 Link 】](http://oranwind.org/-mediatek-jiang-linkit-smart-7688-shang-de-gan-ce-shu-ju-chuan-song-dao-blynk-app-shou-xue/)
+  * Microsoft Azure
     * 傳送 Sensor Data 到 Microsoft Azure
   * Others
     * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
