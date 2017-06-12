@@ -48,6 +48,7 @@
     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
     * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
+    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) 基礎教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
   * IBM Bluemix
     * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
   * Google
