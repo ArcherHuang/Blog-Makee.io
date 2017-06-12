@@ -56,7 +56,8 @@
     * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
     
   * Blynk
-       * 傳送感測數據到 Blynk App 教學 [【 Link 】](http://oranwind.org/-mediatek-jiang-linkit-smart-7688-shang-de-gan-ce-shu-ju-chuan-song-dao-blynk-app-shou-xue/)  
+    
+    * 傳送感測數據到 Blynk App 教學 [【 Link 】](http://oranwind.org/-mediatek-jiang-linkit-smart-7688-shang-de-gan-ce-shu-ju-chuan-song-dao-blynk-app-shou-xue/)  
   * Microsoft Azure
     * 傳送 Sensor Data 到 Microsoft Azure
   * Others
