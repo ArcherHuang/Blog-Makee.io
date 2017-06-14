@@ -180,6 +180,9 @@
 * 安裝 GitLab [【 Link 】](http://oranwind.org/-devops-an-zhuang-gitlab/)
 * ngrok 與 Python Flask 整合 [【 Link 】](http://oranwind.org/-tool-ngrok-yu-python-flask-zheng-he/)
 
+## Tools
+* 於 Visual Studio Code 中使用 FiraCode 教學 [【 Link 】](http://oranwind.org/-iot-studio/)
+
 ## Testing Automation
 * 【 Python 】
  * 自動化安裝 RStudio 與 Selenium 自動化測試【 Link 】
