@@ -27,6 +27,7 @@
      * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
      * 透過 Python Flask 控制 LED [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-flask-kong-zhi-led/)
      * LinkIt Smart 7688 復救教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-fu-jiu-jiao-xue/)
+     * 擴充 LinkIt Smart 7688 容量教學 [【 Link 】](http://oranwind.org/-mediatek-kuo-chong-linkit-smart-7688-rong-liang-jiao-xue/)
   * IFTTT
      * 拍照上傳到 Dropbox 並透過 IFTTT 發送 Notification 教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-linkit-smart-7688-pai-zhao-shang-chuan-dao-dropbox-bing-tou-guo-ifttt-fa-song-notification-jiao-xue/)
   * ThingSpeak
