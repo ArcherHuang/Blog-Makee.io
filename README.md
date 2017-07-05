@@ -29,6 +29,7 @@
      * LinkIt Smart 7688 復救教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-fu-jiu-jiao-xue/)
      * 擴充 LinkIt Smart 7688 容量教學 [【 Link 】](http://oranwind.org/-mediatek-kuo-chong-linkit-smart-7688-rong-liang-jiao-xue/)
      * 實作比特幣匯率顯示器教學 [【 Link 】](http://oranwind.org/-mediatek-shi-yong-linkit-smart-7688-shi-zuo-bi-te-bi-xian-shi-qi-jiao-xue/)
+     * 透過手勢控制風扇教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-shou-shi-kong-zhi-linkit-smart-7688-feng-shan-jiao-xue/)
   * IFTTT
      * 拍照上傳到 Dropbox 並透過 IFTTT 發送 Notification 教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-linkit-smart-7688-pai-zhao-shang-chuan-dao-dropbox-bing-tou-guo-ifttt-fa-song-notification-jiao-xue/)
   * ThingSpeak
