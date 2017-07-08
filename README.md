@@ -17,7 +17,7 @@
    * MediaTek Cloud Sandbox & MCS Lite
      * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-ji-chu-jiao-xue/)
      * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
-     * 使用 App Inventor 控制 LinkIt 7697 LED 教學 [【 Link 】](http://oranwind.org/-mediatek-shi-yong-app-inventor-kong-zhi-linkit-7697-led-jiao-xue/)
+     * 使用 App Inventor 經由 BLE 控制 LinkIt 7697 LED 教學 [【 Link 】](http://oranwind.org/-mediatek-shi-yong-app-inventor-kong-zhi-linkit-7697-led-jiao-xue/)
          
 * **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
    * Basic
