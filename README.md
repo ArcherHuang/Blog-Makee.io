@@ -52,6 +52,7 @@
     * 設定 AWS IoT 與 AWS SNS 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version-2/)
     * 設定 AWS API Gateway 中 Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-zhong-lambda-fu-wu/)
     * 設定 AWS API Gateway 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-fu-wu/)
+    * LinkIt Smart 7688 Subscribe AWS IoT Message 教學 [【 Python 】](https://oranwind.org/-aws-shuang-ren-dui-zhan-jian-dao-shi-tou-bu-you-xi-shi-zuo-jiao-xue/)    
     
   * MediaTek Cloud Sandbox
     * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
