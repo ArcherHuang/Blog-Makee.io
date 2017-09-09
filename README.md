@@ -7,7 +7,7 @@
   - [Basic](#basic)
   - [MediaTek Cloud Sandbox & MCS Lite](#mediatek-cloud-sandbox---mcs-lite)
 - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Basic](#basic)
+  - [Basic](#basic-1)
   - [IFTTT](#ifttt)
   - [ThingSpeak](#thingspeak)
   - [WoT.City](#wotcity)
