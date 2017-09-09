@@ -5,7 +5,7 @@
 - [Micro:bit](#microbit)
 - [Linkit 7697](#linkit-7697)
   - [Basic](#basic)
-  - [MediaTek Cloud Sandbox & MCS Lite](#mediatek-cloud-sandbox)
+  - [MediaTek Cloud Sandbox & MCS Lite](#mediatek-cloud-sandbox---mcs-lite)
 - [Linkit Smart 7688](#linkit-smart-7688)
   - [Basic](#basic)
   - [IFTTT](#ifttt)
