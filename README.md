@@ -3,7 +3,7 @@
 ## Contents
 
 - [Micro:bit](#microbit)
-- [Linkit 7697](#linkit 7697)
+- [Linkit 7697](#linkit-7697)
 
 ## Microbit
   * Micro:bit 起手式基礎教學 [【 Link 】](https://oranwind.org/-bbc-microbit-qi-shou-shi-ji-chu-jiao-xue/)
