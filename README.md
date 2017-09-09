@@ -1,18 +1,17 @@
 # 教學文章
                     
-## Development Board   
-
 ## Contents
 
-- [Micro:bit](#micro:bit)
+- [Micro:bit](#microbit)
+- [Linkit 7697](#linkit 7697)
 
-## Micro:bit
+## Microbit
   * Micro:bit 起手式基礎教學 [【 Link 】](https://oranwind.org/-bbc-microbit-qi-shou-shi-ji-chu-jiao-xue/)
   * Micro:bit 起手式 Arduino 基礎教學 [【 Link 】](http://oranwind.org/-bbc-microbit-qi-shou-shi-arduino-ji-chu-jiao-xue/)
   * 透過 Blynk App 控制 Micro:bit 基礎教學 [【 Link 】](http://oranwind.org/-bbc-tou-guo-blynk-%08app-kong-zhi-microbit-ji-chu-jiao-xue/)
   * 將 Micro:bit 上的 Light Sensor 數據傳送到 Blynk App [【 Link 】](http://oranwind.org/-bbc-jiang-microbit-shang-de-light-sensor-shu-ju-chuan-song-dao-blynk-app/)
 
-* **Linkit 7697**
+## Linkit 7697
    * Basic
      * Linkit 7697 起手式基礎教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-ji-chu-jiao-xue/)
      * LinkIt 7697 使用 Microlattice.js 教學 - Windows  [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-shi-yong-microlattice-js-ji-chu-jiao-xue/)
