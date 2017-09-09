@@ -10,7 +10,7 @@
   - [Basic](#basic)
   - [IFTTT](#ifttt)
   - [ThingSpeak](#thingspeak)
-  - [WoT.City](#wot.city)
+  - [WoT.City](#wotcity)
   - [Amazon Web Services](#amazon-web-services)
   - [MediaTek Cloud Sandbox](#mediatek-cloud-sandbox)
   - [IBM Bluemix](#ibm-bluemix)
