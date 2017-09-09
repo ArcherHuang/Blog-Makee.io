@@ -4,6 +4,16 @@
 
 - [Micro:bit](#microbit)
 - [Linkit 7697](#linkit-7697)
+- [Linkit Smart 7688](#linkit-smart-7688)
+- [Intel Edison](#intel-edison)
+- [Raspberry Pi 3 Model B](#raspberry-pi-3-model-b)
+- [NodeMCU](#nodemcu)
+- [Robot](#robot)
+- [IoT Studio](#iot-studio)
+- [Short Message Service](#short-message-service)
+- [DevOps](#devops)
+- [Tools](#tools)
+- [Gitbook](#gitbook)
 
 ## Microbit
   * Micro:bit 起手式基礎教學 [【 Link 】](https://oranwind.org/-bbc-microbit-qi-shou-shi-ji-chu-jiao-xue/)
@@ -24,7 +34,7 @@
      * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-ji-chu-jiao-xue/)
      * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
          
-* **Linkit Smart 7688 / LinkIt Smart 7688 Duo**
+## Linkit Smart 7688
    * Basic
      * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
      * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
@@ -78,7 +88,7 @@
   * Others
     * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
 
-* **Intel Edison**
+## Intel Edison
   * 更新 Firmware [【 Link 】](http://oranwind.org/-intel-edison-geng-xin-firmware/)
   * 設定無線網路 [【 Link 】](http://oranwind.org/-intel-edison-she-ding-wu-xian-wang-lu/)
   * 透過 API 開關 LED [【 Python 】](http://oranwind.org/-intel-edison-tou-guo-api-kai-guan-led/)
@@ -88,7 +98,7 @@
   * AWS IoT 串接 AWS SNS 服務 (NEW Version) [【 Python 】]()
   * AWS IoT 串接 AWS DynamoDB 服務 (NEW Version) [【 Python 】]()
 
-* **Raspberry Pi 3 Model B**
+## Raspberry Pi 3 Model B
  * Basic
    * 透過 macOS 安裝 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-macos-an-zhuang-raspbian/)
     * iPad 透過 VNC 控制 Raspbian [【 Link 】](http://oranwind.org/-raspberry-pi-tou-guo-ipad-kong-zhi-raspbian/)
@@ -116,7 +126,7 @@
  * ThingSpeak
    * 傳送溫溼度資訊到 ThingSpeak [【 Python 】](http://oranwind.org/-raspberry-pi-tou-guo-python-chuan-song-wen-shi-du-zi-xun-dao-thingspeak/)
 
-* **NodeMCU**
+## NodeMCU
    * 在 Arduino IDE 設定 NodeMCU [【 Link 】](http://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/)
    
 ## Robot
