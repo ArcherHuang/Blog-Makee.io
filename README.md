@@ -90,7 +90,7 @@
   * 設定 AWS API Gateway 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-fu-wu/)
   * LinkIt Smart 7688 Subscribe AWS IoT Message 教學 [【 Python 】](https://oranwind.org/-aws-shuang-ren-dui-zhan-jian-dao-shi-tou-bu-you-xi-shi-zuo-jiao-xue/)    
     
-### MediaTek Cloud Sandbox
+### MediaTek Cloud Sandbox & MCS Lite
   * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
   * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
   * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
