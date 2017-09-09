@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Micro:bit](#Micro:bit)
+- [Micro:bit](#micro:bit)
 
 ## Micro:bit
   * Micro:bit 起手式基礎教學 [【 Link 】](https://oranwind.org/-bbc-microbit-qi-shou-shi-ji-chu-jiao-xue/)
