@@ -12,7 +12,7 @@
   - [ThingSpeak](#thingspeak)
   - [WoT.City](#wotcity)
   - [Amazon Web Services](#amazon-web-services)
-  - [MediaTek Cloud Sandbox](#mediatek-cloud-sandbox)
+  - [MediaTek Cloud Sandbox](#mediatek-cloud-sandbox--mcs-lite)
   - [IBM Bluemix](#ibm-bluemix)
   - [Google](#google)
   - [Blynk](#blynk)
