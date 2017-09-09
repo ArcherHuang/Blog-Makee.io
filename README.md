@@ -4,6 +4,8 @@
 
 - [Micro:bit](#microbit)
 - [Linkit 7697](#linkit-7697)
+  - [Basic](#basic)
+  - [MediaTek Cloud Sandbox & MCS Lite](#mediatek-cloud-sandbox-&-mcs-lite)
 - [Linkit Smart 7688](#linkit-smart-7688)
 - [Intel Edison](#intel-edison)
 - [Raspberry Pi 3 Model B](#raspberry-pi-3-model-b)
