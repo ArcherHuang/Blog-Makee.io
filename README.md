@@ -47,7 +47,7 @@
   * 透過 LightBlue 讀取 LinkIt 7697 溫度感測器資訊教學  [【 Link 】](http://oranwind.org/-mediatek-tou-guo-lightblue-du-qu-linkit-7697-wen-du-gan-ce-qi-zi-xun-jiao-xue/)
   * 使用 App Inventor 經由 BLE 控制 LinkIt 7697 LED 教學 [【 Link 】](http://oranwind.org/-mediatek-shi-yong-app-inventor-kong-zhi-linkit-7697-led-jiao-xue/) 
      
-### MediaTek Cloud Sandbox
+### MediaTek Cloud Sandbox  & MCS Lite
   * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-ji-chu-jiao-xue/)
   * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) [【 Link 】](http://oranwind.org/-mediatek-linkit-7697-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
          
