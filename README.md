@@ -7,12 +7,17 @@
   - [Basic](#basic)
   - [MediaTek Cloud Sandbox & MCS Lite](#mediatek-cloud-sandbox)
 - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Linkit Smart 7688](#linkit-smart-7688)
-  - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Basic](#basic)
+  - [IFTTT](#ifttt)
+  - [ThingSpeak](#thingspeak)
+  - [WoT.City](#wot.city)
+  - [Amazon Web Services](#amazon-web-services)
+  - [MediaTek Cloud Sandbox](#mediatek-cloud-sandbox)
+  - [IBM Bluemix](#ibm-bluemix)
+  - [Google](#google)
+  - [Blynk](#blynk)
+  - [Microsoft Azure](#microsoft-azure)
+  - [Mini 4WD](#mini-4wd)
 - [Intel Edison](#intel-edison)
 - [Raspberry Pi 3 Model B](#raspberry-pi-3-model-b)
 - [NodeMCU](#nodemcu)
@@ -105,7 +110,7 @@
 ### Microsoft Azure
   * 傳送 Sensor Data 到 Microsoft Azure
 
-### Others
+### Mini 4WD
   * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
 
 ## Intel Edison
