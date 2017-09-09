@@ -7,6 +7,12 @@
   - [Basic](#basic)
   - [MediaTek Cloud Sandbox & MCS Lite](#mediatek-cloud-sandbox)
 - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Linkit Smart 7688](#linkit-smart-7688)
+  - [Linkit Smart 7688](#linkit-smart-7688)
 - [Intel Edison](#intel-edison)
 - [Raspberry Pi 3 Model B](#raspberry-pi-3-model-b)
 - [NodeMCU](#nodemcu)
@@ -43,58 +49,64 @@
 ## Linkit Smart 7688
 [Back](#contents)
 
-   * Basic
-     * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
-     * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
-     * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
-     * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
-     * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
-     * 透過 Python Flask 控制 LED [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-flask-kong-zhi-led/)
-     * LinkIt Smart 7688 復救教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-fu-jiu-jiao-xue/)
-     * 擴充 LinkIt Smart 7688 容量教學 [【 Link 】](http://oranwind.org/-mediatek-kuo-chong-linkit-smart-7688-rong-liang-jiao-xue/)
-     * 實作比特幣匯率顯示器教學 [【 Link 】](http://oranwind.org/-mediatek-shi-yong-linkit-smart-7688-shi-zuo-bi-te-bi-xian-shi-qi-jiao-xue/)
-     * 透過手勢控制風扇教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-shou-shi-kong-zhi-linkit-smart-7688-feng-shan-jiao-xue/)
-  * IFTTT
-     * 拍照上傳到 Dropbox 並透過 IFTTT 發送 Notification 教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-linkit-smart-7688-pai-zhao-shang-chuan-dao-dropbox-bing-tou-guo-ifttt-fa-song-notification-jiao-xue/)
-  * ThingSpeak
-    * 傳送 Sensor Data 到 ThingSpeak [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
-  * WoT.City
-    * 傳送 Sensor Data 到 WoT.City [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
-  * Amazon Web Services
-    * 傳送 Sensor Data 到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
-    * 設定 AWS IoT 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version/)
-    * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
-    * 設定 AWS SNS 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version/)
-    * AWS IoT 串接 AWS DynamoDB 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
-    * 設定 AWS DynamoDB 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu-new-version/)
-    * 設定 AWS Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-lambda-fu-wu/)
-    * 設定 AWS IoT 與 AWS Lambda 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-iot-yu-aws-lambda-de-rule/)
-    * 將 Sensing Data 傳送到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version-2/)
-    * 設定 AWS IoT 與 AWS SNS 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version-2/)
-    * 設定 AWS API Gateway 中 Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-zhong-lambda-fu-wu/)
-    * 設定 AWS API Gateway 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-fu-wu/)
-    * LinkIt Smart 7688 Subscribe AWS IoT Message 教學 [【 Python 】](https://oranwind.org/-aws-shuang-ren-dui-zhan-jian-dao-shi-tou-bu-you-xi-shi-zuo-jiao-xue/)    
+### Basic
+  * 取得 Mac Address / IP [【 Arduino 】](http://oranwind.org/qu-de-mac-address-ip/)
+  * 透過指令開啟 Station Mode / AP Mode [【 Link 】](http://oranwind.org/-linkit-smart-7688/)
+  * 傳送檔案與登入到開發板 [【 Link 】](http://oranwind.org/-linkit/)
+  * 登入時發生 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 錯誤 [【 Link 】](http://oranwind.org/-linkit-smart-7688-deng-ru-shi-fa-sheng-warning-remote-host-identification-has-changed-cuo-wu/)
+  * 安裝 USB 音效卡 [【 Link 】](http://oranwind.org/-linkit-smart-7688-an-zhuang-usb-yin-xiao-qia/)
+  * 透過 Python Flask 控制 LED [【 Python 】](http://oranwind.org/-linkit-smart-7688-tou-guo-python-flask-kong-zhi-led/)
+  * LinkIt Smart 7688 復救教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-fu-jiu-jiao-xue/)
+  * 擴充 LinkIt Smart 7688 容量教學 [【 Link 】](http://oranwind.org/-mediatek-kuo-chong-linkit-smart-7688-rong-liang-jiao-xue/)
+  * 實作比特幣匯率顯示器教學 [【 Link 】](http://oranwind.org/-mediatek-shi-yong-linkit-smart-7688-shi-zuo-bi-te-bi-xian-shi-qi-jiao-xue/)
+  * 透過手勢控制風扇教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-shou-shi-kong-zhi-linkit-smart-7688-feng-shan-jiao-xue/)
+  
+### IFTTT
+  * 拍照上傳到 Dropbox 並透過 IFTTT 發送 Notification 教學 [【 Link 】](http://oranwind.org/-mediatek-tou-guo-linkit-smart-7688-pai-zhao-shang-chuan-dao-dropbox-bing-tou-guo-ifttt-fa-song-notification-jiao-xue/)
+
+### ThingSpeak
+  * 傳送 Sensor Data 到 ThingSpeak [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak/)
     
-  * MediaTek Cloud Sandbox
-    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
-    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
-    * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
-    * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) 基礎教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
-  * IBM Bluemix
-    * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
-  * Google
-    * 傳送 Sensor Data 到 Firebase [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-google-firebase/)
-    * 傳送感測資訊到 Google Spreadsheet 教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-chuan-song-gan-ce-zi-xun-dao-google-spreadsheet-jiao-xue/)
-    * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
+### WoT.City
+  * 傳送 Sensor Data 到 WoT.City [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-thingspeak-2/)
     
-  * Blynk
-    
-    * 傳送感測數據到 Blynk App 教學 [【 Link 】](http://oranwind.org/-mediatek-jiang-linkit-smart-7688-shang-de-gan-ce-shu-ju-chuan-song-dao-blynk-app-shou-xue/)  
+### Amazon Web Services
+  * 傳送 Sensor Data 到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot/)
+  * 設定 AWS IoT 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version/)
+  * AWS IoT 串接 AWS SNS 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-aws-iot-2/)
+  * 設定 AWS SNS 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version/)
+  * AWS IoT 串接 AWS DynamoDB 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu/)
+  * 設定 AWS DynamoDB 服務 (NEW Version) [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-dynamodb-fu-wu-new-version/)
+  * 設定 AWS Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-lambda-fu-wu/)
+  * 設定 AWS IoT 與 AWS Lambda 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-iot-yu-aws-lambda-de-rule/)
+  * 將 Sensing Data 傳送到 AWS IoT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensing-data-dao-aws-iot-new-version-2/)
+  * 設定 AWS IoT 與 AWS SNS 的 Rule [【 Python 】](http://oranwind.org/-linkit-smart-7688-aws-iot-chuan-jie-aws-sns-fu-wu-new-version-2/)
+  * 設定 AWS API Gateway 中 Lambda 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-zhong-lambda-fu-wu/)
+  * 設定 AWS API Gateway 服務 [【 Python 】](http://oranwind.org/-linkit-smart-7688-she-ding-aws-api-gateway-fu-wu/)
+  * LinkIt Smart 7688 Subscribe AWS IoT Message 教學 [【 Python 】](https://oranwind.org/-aws-shuang-ren-dui-zhan-jian-dao-shi-tou-bu-you-xi-shi-zuo-jiao-xue/)    
+    
+### MediaTek Cloud Sandbox
+  * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - API [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs/)
+  * 傳送 Sensor Data 到 MediaTek Cloud Sandbox ( MCS ) - MQTT [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-mediatek-cloud-sandbox-mcs-mqtt/)
+  * 傳送 Video Stream 到 MediaTek Cloud Sandbox ( MCS ) [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-video-stream-dao-mediatek-cloud-sandbox-mcs/)
+  * 傳送 Sensor Data 到 MediaTek Cloud Sandbox Lite ( MCS Lite ) 基礎教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-chuan-jie-mcs-lite-ji-chu-jiao-xue/)
+  
+### IBM Bluemix
+  * 傳送 Sensor Data 到 IBM Bluemix [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-ibm-bluemix/)
+    
+### Google
+  * 傳送 Sensor Data 到 Firebase [【 Python 】](http://oranwind.org/-linkit-smart-7688-chuan-song-sensor-data-dao-google-firebase/)
+  * 傳送感測資訊到 Google Spreadsheet 教學 [【 Link 】](http://oranwind.org/-mediatek-linkit-smart-7688-chuan-song-gan-ce-zi-xun-dao-google-spreadsheet-jiao-xue/)
+  * 透過 App Inventor 取得 Firebase 的數值【 App Inventor 】
+    
+### Blynk
+  * 傳送感測數據到 Blynk App 教學 [【 Link 】](http://oranwind.org/-mediatek-jiang-linkit-smart-7688-shang-de-gan-ce-shu-ju-chuan-song-dao-blynk-app-shou-xue/)  
   
-  * Microsoft Azure
-    * 傳送 Sensor Data 到 Microsoft Azure
-  * Others
-    * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
+### Microsoft Azure
+  * 傳送 Sensor Data 到 Microsoft Azure
+
+### Others
+  * GP 晶片迷你四驅車（ Mini 4WD ) [【 Python 】](http://oranwind.org/un/)
 
 ## Intel Edison
 [Back](#contents)
