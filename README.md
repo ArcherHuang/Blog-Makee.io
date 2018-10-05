@@ -2,6 +2,8 @@
                     
 ## Contents
 
+- [Edge](#edge)
+- [Docker](#docker)
 - [Micro:bit](#microbit)
 - [Linkit 7697](#linkit-7697)
   - [Basic](#basic)
