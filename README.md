@@ -36,7 +36,7 @@
 
   * 在 Ubuntu 安裝 Apache Pulsar [【 Link 】](https://oranwind.org/-edge-zai-ubuntu-an-zhuang-apache-pulsar/)
   * 在 Ubuntu 安裝 Mosquitto MQTT Broker [【 Link 】](https://oranwind.org/-edge-zai-ubuntu-an-zhuang-mosquitto-mqtt-broker-part-2/)
-  * macOS 安裝 Mosquitto MQTT Broker [【 Link 】](https://oranwind.org/post-post-2/)
+  * 在 macOS 安裝 Mosquitto MQTT Broker [【 Link 】](https://oranwind.org/post-post-2/)
 
 ## Edge
 [Back](#contents)
