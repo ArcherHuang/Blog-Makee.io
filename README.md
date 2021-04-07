@@ -35,6 +35,7 @@
 ## 相關 Blog
 [Back](#contents)
 * https://oranwind.org/author/archer/
+* https://learningsky.io/author/archer/
 
 ## Broker
 [Back](#contents)
